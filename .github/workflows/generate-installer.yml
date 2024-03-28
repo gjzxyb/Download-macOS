@@ -15,7 +15,7 @@ on:
           - Catalina v10.15.7
           - Mojave v10.14.6
           - High Sierra v10.13.6
-          - Sonoma Beta v14.1
+          - Sonoma Beta v14.4
       file:
         type: choice
         description: "File Type"
